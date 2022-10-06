@@ -1,5 +1,5 @@
 #For
-'''
+
 lista2=[]
 
 lista=["R1","R2","R3","R4","S1","S2"]
@@ -30,7 +30,7 @@ contador=1
 while contador <= numero:
     print(contador)
     contador+=1    #contador=contador+1
-    '''
+    
     
 numero = input("Ingrese el numero a contar")
 numero = int(numero)
@@ -40,3 +40,6 @@ while True:
     contador+=1    #contador=contador+1
     if contador>numero:
         break
+    
+
+    
